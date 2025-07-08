@@ -8,3 +8,11 @@ struct skill{
     string skill3;
 };
 
+struct Hero
+{
+    string nama;
+    string role;
+    string tipe;
+    skill skill;
+};
+
