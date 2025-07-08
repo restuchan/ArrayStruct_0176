@@ -7,3 +7,6 @@ float nilaiAkhir[2] = {1 , 2.5};
 
 char grade[5];
 
+int main()
+{
+   
